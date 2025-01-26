@@ -19,7 +19,7 @@ export TAVILY_API_KEY=<your_tavily_api_key>
 
 Clone the repository and launch the assistant with the LangGraph server:
 ```bash
-git clone https://github.com/langchain-ai/ollama-deep-researcher.git
+git clone https://github.com/sheikhDipta003/deep-researcher.git
 cd ollama-deep-researcher
 python .\main.py
 ```
